@@ -6,6 +6,6 @@ Algorithmic Design Paradigms, 5, 10, 15
 Metaheuristic Algorithms, 5, 10, 15
 Intractability, 5, 10, 15
 Sorting Algorithms, 5, 10, 0
-Searching Algorithms, 5, 10, 15
+Searching Algorithms, 5, 10, 0
 
 Goal is for all numbers to be zero.
