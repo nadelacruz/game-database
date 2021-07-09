@@ -4,8 +4,8 @@ Format is: Topic, Hard Questions, Medium Questions, Easy Questions
 Graph Theory: A Review, 5, 10, 0
 Algorithmic Design Paradigms, 0, 0, 0
 Metaheuristic Algorithms, 5, 10, 15
-Intractability, 5, 10, 15
-Sorting Algorithms, 5, 10, 0
+Intractability, 0, 0, 0
+Sorting Algorithms, 0, 0, 0
 Searching Algorithms, 5, 10, 0
 
 Goal is for all numbers to be zero.
